@@ -75,10 +75,4 @@ pip install scipy
 - Users can modify the observed data and prior parameters according to their needs.
 - For any issues or further inquiries, please refer to the code comments or contact the developer team.
 
-## Team-members(Team 21)
 
-- Apoorv Tandon (220192)
-- Daksh Kumar Singh (220322)
-- Himanshu Shekhar (220454)
-- Swayamsidh Pradhan (221117)
-- Tanishq Maheshwari (221128)
